@@ -11,6 +11,6 @@ Multi-Purpose: Suitable for a wide range of tasks such as information retrieval,
 
 ## Instructions to run
 1. **Clone the repository in your local machine**
-2. **Install the requirements file by pip install -r requirements.txt**
+2. **Install the requirements file by ```pip install -r requirements.txt```**
 3. **Create your OpenAI API key and enter it in your systems environment variables**
-4.  **Run the command streamlit run app_multi_options.py** 
+4.  **Run the command ```streamlit run app_multi_options.py```** 
